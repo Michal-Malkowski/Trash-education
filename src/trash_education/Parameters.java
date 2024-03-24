@@ -1,0 +1,41 @@
+package trash_education;
+
+public class Parameters {
+    public static String Title = "Trash education";
+    public static int width = 1280;
+    public static int height = 768;
+    public static int fps = 60;
+    public static int playerPosx = 100;
+    public static int playerPosy = 500;
+    public static int playerSpeed = 5;
+    public static int playerUp = 5;
+    public static int playerDown = 5;
+    public static int playerRight = 5;
+    public static int playerLeft = 5;
+    public static int playerWidth = 86;
+    public static int playerHeight = 128;
+    public static int dustbin1Posx = 100;
+    public static int dustbin1Posy = 20;
+    public static int dustbin2Posx = 270;
+    public static int dustbin2Posy = 20;
+    public static int dustbin3Posx = 440;
+    public static int dustbin3Posy = 20;
+    public static int dustbin4Posx = 610;
+    public static int dustbin4Posy = 20;
+    public static int dustbin5Posx = 800;
+    public static int dustbin5Posy = 20;
+    public static int dustbinsAmount = 3;
+    public static int rubbishAmount = 5;
+    public static int menuPosx = 1040;
+    public static int menuPosy = 50;
+    public static int levelPosx = 1040;
+    public static int levelPosy = 150;
+    public static int pointsPosx = 1040;
+    public static int pointsPosy = 250;
+    public static int timePosx = 1040;
+    public static int timePosy = 350;
+    public static int infoPosx = 1040;
+    public static int infoPosy = 450;
+    public static int messagePosx = 420;
+    public static int messagePosy = 250;
+}
